@@ -1,0 +1,85 @@
+2025-11-22 15:48:50,860 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-11-22 15:48:51,093 - db_helper - INFO - fatch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-11-22 15:49:55,113 - db_helper - INFO - fatch_expenses_for_date called with 2024-09-30
+2025-11-22 15:49:55,211 - db_helper - INFO - fatch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-11-22 15:52:15,202 - db_helper - INFO - fatch_expenses_for_date called with 2024-09-30
+2025-11-22 15:52:15,387 - db_helper - INFO - fatch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-11-22 16:00:54,297 - name - INFO - fatch_expenses_for_date called with 2024-09-30
+2025-11-22 16:00:54,400 - name - INFO - fatch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-12-21 21:38:04,858 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-21 21:38:17,956 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-02
+2025-12-21 21:38:35,227 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-21 21:46:06,719 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-02
+2025-12-22 21:56:29,240 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:00:54,350 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:02:35,531 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:02:48,983 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:04:58,021 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:06:03,145 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:08:16,943 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:12:11,574 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:24:22,692 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:25:53,491 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:27:38,833 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:28:20,440 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:33:23,418 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:38:49,722 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:40:19,798 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:44:14,063 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:46:31,509 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:46:48,499 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:46:52,916 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-22
+2025-12-22 22:46:57,412 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-02
+2025-12-22 22:47:06,314 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:47:45,470 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:48:40,379 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:52:06,715 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-07
+2025-12-22 22:58:29,240 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-22 22:58:36,069 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-02
+2025-12-22 22:58:40,910 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-07
+2025-12-23 13:23:33,201 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-23 13:26:51,631 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-23 13:27:01,318 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-07
+2025-12-23 13:28:12,729 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-07
+2025-12-23 13:28:14,869 - db_helper - INFO - delete_epenses_for_date called with 2024-08-07
+2025-12-23 13:28:15,045 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount:20.0,category: Shopping,notes: bought coco 
+2025-12-23 13:28:15,269 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount:10.0,category: Shopping,notes: shampoo
+2025-12-23 13:28:15,363 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount:100.0,category: Shopping,notes: oil
+2025-12-23 13:28:15,449 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount:20.0,category: Shopping,notes: catbaery
+2025-12-23 13:28:15,539 - db_helper - INFO - insert_expense called with date: 2024-08-07, amount:40.0,category: Shopping,notes: capcake
+2025-12-23 21:20:03,413 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-23 21:20:12,511 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-23 21:20:14,646 - db_helper - INFO - delete_epenses_for_date called with 2024-08-01
+2025-12-23 21:20:14,761 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount:1227.0,category: Rent,notes: Monthly rent payment
+2025-12-23 21:20:14,845 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount:300.0,category: Food,notes: Groceries for the week
+2025-12-23 21:20:14,927 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount:1200.0,category: Rent,notes: Monthly rent payment
+2025-12-23 21:20:15,009 - db_helper - INFO - insert_expense called with date: 2024-08-01, amount:300.0,category: Food,notes: Groceries for the week
+2025-12-23 23:07:36,527 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-23 23:08:59,198 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-24 21:12:59,390 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-24 21:14:14,722 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 13:48:49,123 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:24:00,711 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:26:27,986 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:26:32,398 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:27:50,811 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:27:56,372 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:30:57,623 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:31:03,443 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:37:53,575 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:39:06,543 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:39:11,549 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:39:11,774 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:41:30,376 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:41:37,717 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:45:08,655 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:45:14,639 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:45:16,791 - db_helper - INFO - fatch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-12-25 15:48:38,362 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:48:42,591 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 15:48:44,768 - db_helper - INFO - fatch_expense_summary called with start: 2024-08-01, end: 2024-08-05
+2025-12-25 16:39:16,941 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 16:42:53,171 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 16:44:30,715 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 16:44:36,392 - db_helper - INFO - fatch_expenses_for_date called with 2024-08-01
+2025-12-25 16:44:38,535 - db_helper - INFO - fatch_expense_summary called with start: 2024-08-01, end: 2024-08-05

@@ -1,0 +1,20 @@
+from backend import db_helper
+
+
+def test_fetch_expenses_for_date_Aub_15():
+    expenses = db_helper.fetch_expenses_for_date("2024-08-15")
+
+    assert len(expenses) == 1
+    assert expenses[0]['amount'] == 10.0
+    assert expenses[0]['category'] == "Shopping"
+    assert expenses[0]['notes'] == "Bought potatoes"
+
+
+def test_fetch_expenses_for_date_invalid_date():
+    expenses = db_helper.fetch_expenses_for_date("2054-08-15")
+
+    assert len(expenses) == 0
+
+def test_fatch_expense_summary_invalid_range():
+    summery = db_helper.fatch_expense_summary("2099-02-01","2034-09-08")
+    assert len(summery) == 0
